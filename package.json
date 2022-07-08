@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-meanwd",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Calculate the arithmetic mean of a strided array using Welford's algorithm.",
   "license": "Apache-2.0",
   "author": {
