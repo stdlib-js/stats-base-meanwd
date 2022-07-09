@@ -70,7 +70,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.meanwd;
+})();
 })();
 </script>
 ```
@@ -181,6 +183,7 @@ var v = meanwd.ndarray( N, x, 2, 1 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-meanwd@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 var x;
 var i;
@@ -194,6 +197,7 @@ console.log( x );
 var v = meanwd( x.length, x, 1 );
 console.log( v );
 
+})();
 })();
 </script>
 </body>
@@ -315,13 +319,13 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/stats/base/dmeanwd]: https://github.com/stdlib-js/stats-base-dmeanwd/tree/umd
+[@stdlib/stats/base/dmeanwd]: https://github.com/stdlib-js/stats-base-dmeanwd/tree/umd/tree/umd
 
-[@stdlib/stats/base/mean]: https://github.com/stdlib-js/stats-base-mean/tree/umd
+[@stdlib/stats/base/mean]: https://github.com/stdlib-js/stats-base-mean/tree/umd/tree/umd
 
-[@stdlib/stats/base/nanmeanwd]: https://github.com/stdlib-js/stats-base-nanmeanwd/tree/umd
+[@stdlib/stats/base/nanmeanwd]: https://github.com/stdlib-js/stats-base-nanmeanwd/tree/umd/tree/umd
 
-[@stdlib/stats/base/smeanwd]: https://github.com/stdlib-js/stats-base-smeanwd/tree/umd
+[@stdlib/stats/base/smeanwd]: https://github.com/stdlib-js/stats-base-smeanwd/tree/umd/tree/umd
 
 <!-- </related-links> -->
 
