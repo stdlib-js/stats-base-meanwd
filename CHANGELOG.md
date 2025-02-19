@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-02-19)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`19cc365`](https://github.com/stdlib-js/stdlib/commit/19cc365c374707cee40cc7291e98e98c87314f19) - **refactor:** update paths _(by Aayush Khanna)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Aayush Khanna
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-26)
