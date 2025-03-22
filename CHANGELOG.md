@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-10)
+## Unreleased (2025-03-22)
+
+<section class="features">
+
+### Features
+
+-   [`e7593e3`](https://github.com/stdlib-js/stdlib/commit/e7593e312a5ded82205527d8f39a6c78af47c1e7) - refactor and add protocol support to `stats/base/meanwd` [(#6266)](https://github.com/stdlib-js/stdlib/pull/6266)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#5652](https://github.com/stdlib-js/stdlib/issues/5652)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`e7593e3`](https://github.com/stdlib-js/stdlib/commit/e7593e312a5ded82205527d8f39a6c78af47c1e7) - **feat:** refactor and add protocol support to `stats/base/meanwd` [(#6266)](https://github.com/stdlib-js/stdlib/pull/6266) _(by Prajjwal Bajpai, Athan Reines)_
 -   [`19cc365`](https://github.com/stdlib-js/stdlib/commit/19cc365c374707cee40cc7291e98e98c87314f19) - **refactor:** update paths _(by Aayush Khanna)_
 
 </details>
@@ -24,9 +47,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Athan Reines
+-   Prajjwal Bajpai
 
 </section>
 
