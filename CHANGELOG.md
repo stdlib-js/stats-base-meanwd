@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-22)
+## Unreleased (2025-03-29)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`3e8a453`](https://github.com/stdlib-js/stdlib/commit/3e8a4533ddede9bc1916fa5b2f339380c091c0a4) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`e7593e3`](https://github.com/stdlib-js/stdlib/commit/e7593e312a5ded82205527d8f39a6c78af47c1e7) - **feat:** refactor and add protocol support to `stats/base/meanwd` [(#6266)](https://github.com/stdlib-js/stdlib/pull/6266) _(by Prajjwal Bajpai, Athan Reines)_
 -   [`19cc365`](https://github.com/stdlib-js/stdlib/commit/19cc365c374707cee40cc7291e98e98c87314f19) - **refactor:** update paths _(by Aayush Khanna)_
 

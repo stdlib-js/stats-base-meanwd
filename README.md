@@ -161,7 +161,7 @@ var v = meanwd.ndarray( 4, x, 2, 1 );
 
 -   If `N <= 0`, both functions return `NaN`.
 -   Both functions support array-like objects having getter and setter accessors for array element access (e.g., [`@stdlib/array-base/accessor`][@stdlib/array/base/accessor]).
--   Depending on the environment, the typed versions ([`dmeanwd`][@stdlib/stats/strided/dmeanwd], [`smeanwd`][@stdlib/stats/base/smeanwd], etc.) are likely to be significantly more performant.
+-   Depending on the environment, the typed versions ([`dmeanwd`][@stdlib/stats/strided/dmeanwd], [`smeanwd`][@stdlib/stats/strided/smeanwd], etc.) are likely to be significantly more performant.
 
 </section>
 
@@ -214,7 +214,7 @@ console.log( v );
 -   <span class="package-name">[`@stdlib/stats-strided/dmeanwd`][@stdlib/stats/strided/dmeanwd]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a double-precision floating-point strided array using Welford's algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-base/mean`][@stdlib/stats/base/mean]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-base/nanmeanwd`][@stdlib/stats/base/nanmeanwd]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a strided array, ignoring NaN values and using Welford's algorithm.</span>
--   <span class="package-name">[`@stdlib/stats-base/smeanwd`][@stdlib/stats/base/smeanwd]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array using Welford's algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/smeanwd`][@stdlib/stats/strided/smeanwd]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array using Welford's algorithm.</span>
 
 </section>
 
@@ -312,7 +312,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/base/nanmeanwd]: https://github.com/stdlib-js/stats-base-nanmeanwd
 
-[@stdlib/stats/base/smeanwd]: https://github.com/stdlib-js/stats-base-smeanwd
+[@stdlib/stats/strided/smeanwd]: https://github.com/stdlib-js/stats-strided-smeanwd
 
 <!-- </related-links> -->
 
