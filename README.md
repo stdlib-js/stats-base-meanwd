@@ -212,7 +212,7 @@ console.log( v );
 ## See Also
 
 -   <span class="package-name">[`@stdlib/stats-strided/dmeanwd`][@stdlib/stats/strided/dmeanwd]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a double-precision floating-point strided array using Welford's algorithm.</span>
--   <span class="package-name">[`@stdlib/stats-base/mean`][@stdlib/stats/base/mean]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a strided array.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/mean`][@stdlib/stats/strided/mean]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-base/nanmeanwd`][@stdlib/stats/base/nanmeanwd]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a strided array, ignoring NaN values and using Welford's algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/smeanwd`][@stdlib/stats/strided/smeanwd]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array using Welford's algorithm.</span>
 
@@ -308,7 +308,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/strided/dmeanwd]: https://github.com/stdlib-js/stats-strided-dmeanwd
 
-[@stdlib/stats/base/mean]: https://github.com/stdlib-js/stats-base-mean
+[@stdlib/stats/strided/mean]: https://github.com/stdlib-js/stats-strided-mean
 
 [@stdlib/stats/base/nanmeanwd]: https://github.com/stdlib-js/stats-base-nanmeanwd
 
